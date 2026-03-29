@@ -1,0 +1,9 @@
+{
+  "activeProfile": "default",
+  "profiles": {
+    "default": {
+      "mode": "local_auth",
+      "label": "default"
+    }
+  }
+}
