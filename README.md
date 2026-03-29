@@ -17,7 +17,7 @@ Connect Claude Desktop to WhatsApp. Send & receive messages, manage groups, shar
 ### Windows
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/whatsapp-mcp.git
+git clone https://github.com/Shloimy15e/whatsapp-mcp.git
 cd whatsapp-mcp
 powershell -ExecutionPolicy Bypass -File install.ps1
 ```
@@ -25,7 +25,7 @@ powershell -ExecutionPolicy Bypass -File install.ps1
 ### macOS / Linux
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/whatsapp-mcp.git
+git clone https://github.com/Shloimy15e/whatsapp-mcp.git
 cd whatsapp-mcp
 chmod +x install.sh && ./install.sh
 ```
